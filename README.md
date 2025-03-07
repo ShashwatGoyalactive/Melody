@@ -3,8 +3,7 @@
 Melody Tune is a modern and user-friendly music website that allows users to explore, stream, and enjoy their favorite tunes seamlessly. The platform is designed for smooth performance and an engaging user experience.
 
 ## 🚀 Live Demo
-🔗 [Melody Tune on Netlify]((https://melody-tune.netlify.app/)) *(Replace with your actual Netlify link)*
-
+https://melody-tune.netlify.app/
 ## 📌 Features
 - 🎼 **Music Streaming** – Play and enjoy a wide collection of songs.
 - 🔍 **Search & Explore** – Discover new tracks and artists.
